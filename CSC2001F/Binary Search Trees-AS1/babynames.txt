@@ -1,0 +1,93 @@
+# ZA Common Baby Names 2018
+# source: http://www.statssa.gov.za/publications/P0305/P03052018.pdf
+#
+1 Liam 373 Junior 734 Melokuhle 317 Grace 303 Jacobs 891
+2 Enzokuhle 310 John 280 Enzokuhle 286 Rose 287 Williams 858
+3 Joshua 305 James 207 Othalive 266 Faith 280 Adams 786
+4 Noah 288 Joshua 193 Mia 260 Hope 227 Abrahams 681
+5 Othalive 256 Luke 175 Alunamda 242 Elizabeth 173 Davids 669
+6 Luke 235 Daniel 167 Leah 241 Angel 163 Hendricks 588
+7 Caleb 222 Liam 132 Iminathi 217 Joy 131 Van Wyk 491
+8 Kungawo 211 David 128 Ava 193 Jade 130 Petersen 469
+9 Alunamda 199 Noah 123 Faith 185 Lee 124 Smith 435
+10 Elijah 199 Matthew 118 Isabella 170 Mia 114 Daniels 420
+1 Enzokuhle 763 Junior 459 Enzokuhle 735 Angel 151 Booi 261
+2 Alunamda 531 Alunamda 130 Alunamda 598 Precious 132 Williams 220
+3 Kungawo 492 Kungawo 120 Iminathi 586 Princess 119 Jacobs 219
+4 Othalive 429 Gift 114 Melokuhle 567 Enzokuhle 115 Klaas 190
+5 Melokuhle 405 Enzokuhle 110 Othalive 452 Alunamda 112 Dyantyi 180
+6 Likuwe 388 Likuwe 103 Likuwe 336 Khayone 109 Madikizela 157
+7 Lingomso 341 Lunje 102 Khayone 297 Iminathi 108 Smith 155
+8 Lubanzi 320 Othalive 102 Lingomso 294 Likuwe 103 Jack 152
+9 Iminathi 308 Lubanzi 99 Kungawo 287 Melokuhle 97 Peter 147
+10 Luphawu 292 Prince 86 Olothando 281 Othalive 87 Booysen 143
+1 Lethabo 118 Junior 321 Reatlegile 84 Precious 137 Van Wyk 353
+2 Amogelang 65 Gift 59 Remofilwe 83 Faith 64 Louw 231
+3 Junior 64 Blessing 45 Rethabile 63 Princess 54 Jacobs 214
+4 Jayden 61 Daniel 44 Omolemo 60 Hope 52 Cloete 202
+5 Leano 61 Jayden 44 Onthatile 54 Grace 44 Olyn 146
+6 Bokamoso 53 Johannes 40 Rorisang 53 Elizabeth 37 Booysen 125
+7 Katlego 52 John 38 Reneilwe 52 Angela 34 Beukes 122
+8 Ofentse 48 Innocent 35 Tshegofatso 50 Angel 33 Modise 122
+9 Lebogang 47 Prince 35 Warona 47 Blessing 30 Visagie 113
+10 Omaatla 47 William 31 Omaatla 46 Jasmine 29 Witbooi 105
+1 Lethabo 467 Junior 980 Amohelang 416 Precious 576 Mokoena 1 286
+2 Katleho 459 Blessing 365 Bokamoso 400 Princess 327 Mofokeng 1 258
+3 Amohelang 443 Prince 244 Rethabile 345 Blessing 324 Moloi 513
+4 Letlotlo 358 Innocent 241 Relebohile 334 Innocentia 123 Motaung 513
+5 Bokamoso 347 Gift 206 Omphile 332 Grace 114 Tshabalala 464
+6 Kamohelo 342 Lethabo 145 Bonolo 309 Portia 104 Radebe 396
+7 Bokang 325 Quinton 140 Oratilwe 302 Naledi 93 Mosia 285
+8 Lesedi 279 Letlotlo 120 Lethabo 286 Faith 90 Motloung 256
+9 Mpho 268 Vincent 120 Lesedi 284 Lesedi 89 Tsotetsi 239
+10 Siyabonga 254 Johannes 110 Naledi 263 Bokamoso 85 Nhlapo 230
+1 Enzokuhle 2651 Lubanzi 1417 Enzokuhle 2293 Enzokuhle 1186 Dlamini 4 666
+2 Lubanzi 2006 Enzokuhle 1310 Asemahle 1246 Okuhle 939 Mkhize 3 368
+3 Melokuhle 1395 Junior 1007 Okuhle 1231 Ziyanda 813 Khumalo 3 366
+4 Bandile 1099 Bandile 826 Lisakhanya 1062 Asemahle 805 Ndlovu 3 330
+5 Ayabonga 1000 Bayanda 801 Emihle 1013 Luthando 776 Gumede 3 113
+6 Bayanda 928 Melokuhle 787 Melokuhle 981 Emihle 716 Ngcobo 3 030
+7 Lethokuhle 922 Ayabonga 682 Esihle 970 Esihle 700 Mthembu 2 754
+8 Banele 861 Samkelo 570 Ziyanda 903 Amahle 695 Buthelezi 2 540
+9 Philasande 677 Okuhle 543 Luthando 900 Angel 626 Zulu 2 526
+10 Alwande 654 Banele 517 Aphelele 893 Aphelele 615 Sithole 2 202
+1 Lethabo 618 Junior 937 Onthatile 528 Precious 575 Molefe 558
+2 Amogelang 394 Blessing 383 Reatlegile 434 Princess 397 Modise 426
+3 Onthatile 390 Gift 374 Remofilwe 393 Blessing 326 Baloyi 289
+4 Bokamoso 368 Prince 274 Rethabile 391 Faith 150 Chauke 229
+5 Ofentse 366 Lethabo 187 Amogelang 374 Hope 147 Mahlangu 221
+6 Oratile 322 Innocent 146 Olerato 354 Warona 144 Sithole 209
+7 Katlego 315 Warona 118 Tshegofatso 346 Lethabo 130 Mogale 188
+8 Reatlegile 310 Bokamoso 113 Rorisang 308 Angel 129 Khumalo 181
+9 Omphile 304 Johannes 107 Omolemo 304 Onthatile 112 Moeng 179
+10 Kamogelo 298 Ofentse 93 Lethabo 299 Lesedi 95 Mokoena 173
+1 Lethabo 986 Junior 2208 Amahle 880 Precious 1334 Nkosi 1 357
+2 Siyabonga 721 Blessing 1184 Lethabo 814 Princess 1242 Mokoena 1 307
+3 Bokamoso 666 Gift 989 Lesedi 799 Angel 751 Mahlangu 1 151
+4 Omphile 623 Prince 796 Naledi 619 Blessing 736 Khumalo 1 143
+5 Thato 606 Lethabo 395 Bokamoso 600 Faith 563 Sithole 1 115
+6 Lesedi 580 Siyabonga 373 Omphile 597 Hope 526 Ndlovu 1 062
+7 Ofentse 563 Njabulo 334 Karabo 588 Amahle 421 Dlamini 1 027
+8 Karabo 560 Johannes 299 Rethabile 572 Lesedi 370 Mofokeng 982
+9 Amogelang 540 Mpho 289 Amogelang 537 Grace 358 Baloyi 907
+10 Bokang 537 Quinton 288 Siphesihle 509 Elizabeth 333 Tshabalala 906
+1 Blessing 428 Junior 939 Melokuhle 722 Princess 889 Nkosi 2 743
+2 Melokuhle 411 Blessing 866 Amahle 645 Angel 604 Mahlangu 1 525
+3 Siyabonga 390 Prince 593 Minenhle 470 Precious 550 Khoza 1 336
+4 Junior 386 Gift 464 Okuhle 384 Amahle 363 Mathebula 1 076
+5 Siphosethu 306 Innocent 379 Lethokuhle 378 Hope 308 Mnisi 908
+6 Lwandle 279 Quinton 332 Thandolwethu 350 Melokuhle 291 Ndlovu 836
+7 Lethokuhle 265 Brilliant 215 Siphesihle 284 Faith 285 Mokoena 771
+8 Nkosenhle 265 Siphosethu 203 Sphesihle 259 Minenhle 275 Shabangu 745
+9 Bandile 260 Siyabonga 201 Hlelokuhle 247 Pearl 228 Maseko 683
+10 Banele 253 Melokuhle 198 Angel 229 Thandolwethu 206 Ngwenya 670
+1 Lethabo 657 Junior 2229 Lethabo 667 Precious 1429 Baloyi 1 556
+2 Katlego 605 Blessing 1422 Amogelang 646 Blessing 1086 Maluleke 1 325
+3 Ofentse 593 Gift 1069 Tshegofatso 609 Angel 757 Chauke 1 275
+4 Amogelang 583 Prince 543 Ofentse 521 Faith 691 Ngobeni 1 063
+5 Phenyo 576 Innocent 381 Omphile 519 Princess 647 Malatji 967
+6 Mpho 572 Brilliant 278 Rethabile 505 Hope 626 Mathebula 832
+7 Kamogelo 554 Quinton 278 Karabo 457 Pretty 474 Mudau 782
+8 Tshegofatso 533 Emmanuel 273 Lesedi 432 Happiness 301 Mohlala 643
+9 Blessing 532 Johannes 257 Kamogelo 417 Pearl 295 Nkuna 600
+10 Karabo 523 Given 242 Katlego 367 Maria 288 Ndou 598
