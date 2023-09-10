@@ -1,0 +1,72 @@
+# Question One
+4
+10.130.33.149
+57876
+
+# Question Two
+4
+128.119.245.12
+80
+
+# Question Three
+1
+1789836220
+
+# Question Four
+2
+2816422859
+1789836221
+
+# Question Five
+4
+1789836221
+
+# Question Six
+4
+0.002
+0.022
+0.020
+0.024
+0.021
+
+# Question Seven
+1406
+1406
+1406
+1406
+
+# Question Eight
+17280
+
+# Question Ten
+3
+10.130.33.149
+
+# Question Eleven
+1
+
+# Question Twelve
+17
+
+# Question Thirteen
+20
+36
+
+# Question Fourteen
+no
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
