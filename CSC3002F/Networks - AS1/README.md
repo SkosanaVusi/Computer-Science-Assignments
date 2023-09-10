@@ -1,0 +1,1 @@
+This assignment is on networked applications where you are required to develop a Python-based client-server chat application in groups of three students. The attached document describes the context/requirements, what to submit, and some basic information about socket programming.
